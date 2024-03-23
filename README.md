@@ -5,16 +5,23 @@
 # Contents:
 
 Business Objective
+
 Business Constraints
+
 Data Collection & Details
+
 Exploratory Data Analysis
+
 Visualization
+
 Model Building 
+
 Evaluation
+
 Deployment
 
-Business Objective: Maximize Revenue
-Business Constraints: Minimize the gut feel based decisions
+# Business Objective: Maximize Revenue
+# Business Constraints: Minimize the gut feel based decisions
 
 # CRISP-ML(Q)
 Business Problem: Walmart is not aware of the planning because they are unware of the number of customers who will visit their stores.
